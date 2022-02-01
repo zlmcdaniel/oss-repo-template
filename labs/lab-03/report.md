@@ -4,7 +4,7 @@
 
 2\. 
 
-<img src="wiki.png" height=200>
+<img src="wiki.png" height=350>
 
 3\.
 
