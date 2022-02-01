@@ -2,7 +2,9 @@
 
 ## Part 1
 
-2\. Project info is typed in the wiki page.
+2\. 
+
+<img src="wiki.png" height=200>
 
 3\.
 
