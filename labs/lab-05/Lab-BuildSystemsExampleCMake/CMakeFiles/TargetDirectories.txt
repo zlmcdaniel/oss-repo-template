@@ -1,0 +1,6 @@
+/mnt/c/users/Zachary McDaniel/Desktop/College/OpenSourceSoftware/oss-repo-template/labs/Lab-05/Lab-BuildSystemsExample2/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/Zachary McDaniel/Desktop/College/OpenSourceSoftware/oss-repo-template/labs/Lab-05/Lab-BuildSystemsExample2/CMakeFiles/edit_cache.dir
+/mnt/c/users/Zachary McDaniel/Desktop/College/OpenSourceSoftware/oss-repo-template/labs/Lab-05/Lab-BuildSystemsExample2/CMakeFiles/SHARED.dir
+/mnt/c/users/Zachary McDaniel/Desktop/College/OpenSourceSoftware/oss-repo-template/labs/Lab-05/Lab-BuildSystemsExample2/CMakeFiles/SharedLib.dir
+/mnt/c/users/Zachary McDaniel/Desktop/College/OpenSourceSoftware/oss-repo-template/labs/Lab-05/Lab-BuildSystemsExample2/CMakeFiles/StaticLib.dir
+/mnt/c/users/Zachary McDaniel/Desktop/College/OpenSourceSoftware/oss-repo-template/labs/Lab-05/Lab-BuildSystemsExample2/CMakeFiles/STATIC.dir

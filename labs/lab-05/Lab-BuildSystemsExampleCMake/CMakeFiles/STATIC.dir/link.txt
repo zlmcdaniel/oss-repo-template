@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/STATIC.dir/program.c.o  -o STATIC libStaticLib.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/SHARED.dir/program.c.o  -o SHARED -Wl,-rpath,"/mnt/c/users/Zachary McDaniel/Desktop/College/OpenSourceSoftware/oss-repo-template/labs/Lab-05/Lab-BuildSystemsExample2" libSharedLib.so 
