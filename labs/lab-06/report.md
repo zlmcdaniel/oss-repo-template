@@ -4,10 +4,11 @@ Test 5 letter words:
 
 Modified Code:
 
-plot_words.py
+[plot_words.py](plot_words.py)
 
 Results:
 
+```
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 14135 edges
@@ -71,16 +72,17 @@ peace
 peach
 Shortest path between pound and marks is
 None
-
+```
 
 Test 4 letter words:
 
 Modified Code:
 
-plot_words4.py
+[plot_words4.py](plot_words4.py)
 
 Results:
 
+```
 Loaded words4_dat.txt containing 2174 four-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 2174 nodes with 8040 edges
@@ -106,16 +108,17 @@ beef
 Shortest path between make and take is
 make
 take
-
+```
 
 Test unordered version using permutations:
 
 Modified code:
 
-plot_words_variation.py
+[plot_words_variation.py](plot_words_variation.py)
 
 Results:
 
+```
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 112278 edges
@@ -155,3 +158,4 @@ monad
 moans
 roams
 marks
+```
