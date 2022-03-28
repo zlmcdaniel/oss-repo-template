@@ -11,7 +11,7 @@ Successful build:
 
 By going to nightly or experimental, we can see different submissions. When you click on one of them and scroll to the bottom, there is a View Test Summary link. This will show all the tests that were run, and whether they passed or failed.
 
-The test for RunCMake.CompatibleInterface had an error. It shows the expected versus actual value in the comparison. The expected return value was \[1\], but it should have been \[Bus error\]. This makes it easy to see what went wrong in the code, and how you might be able to fix it.
+The test for RunCMake.CompatibleInterface had an error. It shows the expected versus actual value in the comparison. The expected return value was \[1\], but it was \[Bus error\]. This makes it easy to see what went wrong in the code, and how you might be able to fix it.
 
 In the masters section, I looked at a windows submission for cmake. It had 477 passed tests, and 1 failed test. The failed test was on the RunCMake.Syntax test. This probably isn't too bad, but could mean there will be issues regarding the correct syntax of cmake.
 
