@@ -34,7 +34,7 @@ Original:
 
 Greyscale:
 
-![](shirt_grey.png)
+![](shirt_grey.PNG)
 
 Results:
 
@@ -44,11 +44,11 @@ Clothing 2:
 
 Original:
 
-![](image1_shoe.png)
+![](image2_shoe.png)
 
 Greyscale:
 
-![](shoe_grey.png)
+![](shoe_grey.PNG)
 
 Results:
 
@@ -58,11 +58,11 @@ Clothing 3:
 
 Original:
 
-![](image1_pants.png)
+![](image3_pants.png)
 
 Greyscale:
 
-![](pants_grey.png)
+![](pants_grey.PNG)
 
 Results:
 
